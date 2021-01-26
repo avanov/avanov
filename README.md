@@ -1,16 +1,13 @@
-### Hi there 👋
+### Python, Haskell, Type-safety, and Formal Verification for the win
 
-<!--
-**avanov/avanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialise and have an interest in the following technical domains:
 
-Here are some ideas to get you started:
+* Metaprogramming, DSL, and Framework Design;
+* Software Architectures and Domain Driven Design;
+* Functional Programming and Memory Safety;
+* Building batch and streaming data processors with cooperative / preemptive
+multitasking;
+* Building async/reactive message-passing services with dynamic task scheduling;
+* Contributing to and maintaining Open Source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you'd like to financially support any of [the source repositories](https://github.com/avanov?tab=repositories&q=&type=source&language=) listed under this account, [consider donating through GithHub](https://github.com/sponsors/avanov).
