@@ -2,7 +2,7 @@
 
 I specialise and have an interest in the following technical domains:
 
-* Metaprogramming, DSL, and Framework Design
+* Meta-programming, DSLs, and Framework Design
 * Software Architectures and Domain Driven Design
 * Functional Programming and Memory Safety
 * Building batch and streaming data processors with cooperative / preemptive
