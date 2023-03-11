@@ -16,4 +16,4 @@ My current sources of insipration (check them out, they're all remarkably cool) 
 * [Liquid Haskell](https://ucsd-progsys.github.io/liquidhaskell-blog/)
 * [GHCJS](https://github.com/ghcjs/ghcjs) and [Miso](https://github.com/dmjio/miso)
 
-If you'd like to financially support any of [the source repositories](https://github.com/avanov?tab=repositories&q=&type=source&language=) listed under this account, [consider donating through GithHub](https://github.com/sponsors/avanov).
+If you'd like to financially support any of [the source repositories](https://github.com/avanov?tab=repositories&q=&type=source&language=) listed under this account, [consider donating through GitHub](https://github.com/sponsors/avanov).
